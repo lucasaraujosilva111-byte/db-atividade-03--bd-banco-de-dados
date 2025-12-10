@@ -88,7 +88,6 @@ atividade banco de dados 3
 
 (criar tabela_alunos
                      ID:38938
-                     
                      NOME: 
                      SEXO: 
                      IDADE: 
